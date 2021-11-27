@@ -10,7 +10,7 @@ people = ["Mattan",
           "Chris",
           "that person you forgot to text back",
           "Kanye West",
-          "Samule L. Jackson"]
+          "Samuel L. Jackson"]
 
 random_bar = random.choice(bars)
 random_person = random.choice(people)
