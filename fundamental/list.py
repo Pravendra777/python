@@ -25,3 +25,12 @@ people.pop(3)#remove element of a particular index
 print(people)
 people.clear()#remove all element of list or we can use del people also to remove all element
 print(people)
+#Sort List
+people = ["Mattan", "Chris", "Sarah"]
+print(people.sort())
+#copy list
+thislist = ["apple", "banana", "cherry"]#1st way
+mylist = thislist.copy()
+print(mylist)
+mylist2=list(thislist)
+print(mylist2)
