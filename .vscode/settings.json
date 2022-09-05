@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": ["./fundamental"],
+  "files.watcherExclude": {
+    "**/target": true
+  }
+}

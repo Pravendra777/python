@@ -81,3 +81,12 @@ print(mydict)
 
 for person in people:
     print(person["name"]," has ",person['height'],"hight.")
+
+
+
+    
+# formkeys
+a=[1,2,3,4,5]
+b=dict.fromkeys(a)
+print(b)
+
